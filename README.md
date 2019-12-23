@@ -1,7 +1,4 @@
-# School_District_Analysis
-Learning Jupyter with School District Data and Analysis
-
-# Challege Summary questions and answers are below.
+# School_District_Analysis Challenge. Learning Jupyter with School District Data and Analysis
 
 # How is the distric summary affected when reading and math scores are dropped for 9th graders at Thomas High School?
    The % Passing Math dropped from 94% to 88%
